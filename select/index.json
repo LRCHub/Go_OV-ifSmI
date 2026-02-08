@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノールス",
+  "base_artist": "シンガーズハイ",
+  "createdAt": "2026-02-08T11:51:34.119310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノールス",
+      "artist": "シンガーズハイ",
+      "has_synced": false,
+      "path": "select/pl_01_ノールス_シンガーズハイ.txt"
+    }
+  ]
+}
